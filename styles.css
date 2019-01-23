@@ -1,0 +1,43 @@
+@font-face{
+	font-family: edosz;
+	src: url('edosz.woff');
+}
+@font-face{
+	font-family: cod;
+	src: url('cod.woff');
+}
+p {
+	font-family: edosz;
+	color: red;
+}
+
+h1 {
+	font-family: cod;
+}
+
+s1 {
+	font-family: edosz;
+	color: red;
+	font-size: 75%;
+}
+
+h2 {
+	font-family: edosz;
+	color: red;
+	font-size: 125%;
+}
+
+h3{
+	font-family: edosz;
+	color: lightgray;
+	font-size: 125%;
+}
+
+s2{
+	font-family: edosz;
+	color: darkred;
+	font-size: 125%;
+}
+
+
+
